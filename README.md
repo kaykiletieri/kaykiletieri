@@ -17,7 +17,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
 
           
-   <!--Eu versão cartoon-->
+   <!--Eu, Kayki versão cartoon-->
   <img align="right" alt="Kayki-pic" height="150" style="border-radius:50px;"
    src="https://media.discordapp.net/attachments/884659747704438814/958494031774621726/cartoon.png?width=473&height=473">
 </div>
