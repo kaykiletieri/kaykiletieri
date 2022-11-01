@@ -16,10 +16,11 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
   
-   <!--Eu, Kayki versão cartoon-->
-  <img align="right" alt="Kayki-pic" height="150" style="border-radius:50px;"
-   src="https://media.discordapp.net/attachments/884659747704438814/958494031774621726/cartoon.png?width=473&height=473">
+   <!--É o coringão!-->
+  <img align="right" alt="Kayki-pic" height="150" style="border-radius:50px;pointer-events: none;"
+   src="https://logodetimes.com/times/corinthians/logo-do-corinthians-512.png?width=473&height=473">
 </div>
 
  ## 
