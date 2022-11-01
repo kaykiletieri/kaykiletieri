@@ -19,7 +19,7 @@
   <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
   
    <!--É o coringão!-->
-  <img align="right" alt="Kayki-pic" height="150" style="border-radius:50px;pointer-events: none;"
+  <img align="right" alt="Kayki-pic" height="150"
    src="https://logodetimes.com/times/corinthians/logo-do-corinthians-512.png?width=473&height=473">
 </div>
 
